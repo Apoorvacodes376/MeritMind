@@ -1,0 +1,22 @@
+# Environment variables - NEVER upload
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# Node modules
+node_modules/
+
+# React build
+frontend/build/
+frontend/dist/
+
+# System files
+.DS_Store
+Thumbs.db
